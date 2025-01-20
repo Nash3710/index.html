@@ -1,5 +1,4 @@
 # index.html
-Cpp Assignment
 import json
 
 def get_course_marks():
